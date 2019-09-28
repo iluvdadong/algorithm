@@ -18,5 +18,4 @@ int main() {
 		if (ans == sum) printf("YES\n");
 		else printf("NO\n");
 	}
-
 }
