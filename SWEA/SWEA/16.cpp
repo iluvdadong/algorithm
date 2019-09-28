@@ -11,9 +11,9 @@ int main() {
 	
 	scanf("%s", &str);
 	for (i = 0; str[i] != '\0'; i++) {
-		if (str[i] >= 65 && str[i] <= 90) //소문자 65~90
+		if (str[i] >= 65 && str[i] <= 90) //대문자 65~90
 			a[str[i] - 64]++;
-		else a[str[i] - 70]++; //대문자 97~122
+		else a[str[i] - 70]++; //소문자 97~122
 	}
 
 	scanf("%s", &str);
