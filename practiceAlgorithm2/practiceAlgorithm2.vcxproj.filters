@@ -18,5 +18,11 @@
     <ClCompile Include="1029.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="체육복.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stringClass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
