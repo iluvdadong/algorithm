@@ -18,9 +18,6 @@
     <ClCompile Include="1029.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="체육복.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="stringClass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -28,6 +25,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="vectorContainer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2016.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mapContainer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
