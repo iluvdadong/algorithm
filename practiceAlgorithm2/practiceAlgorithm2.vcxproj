@@ -144,7 +144,10 @@
     <ClCompile Include="vectorContainer.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="나누어떨어지는숫자배열.cpp" />
+    <ClCompile Include="가운데글자가져오기.cpp" />
+    <ClCompile Include="나누어떨어지는숫자배열.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="문자열다루기기본.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
     </ClCompile>
