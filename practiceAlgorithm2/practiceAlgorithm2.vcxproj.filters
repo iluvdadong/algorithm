@@ -63,5 +63,8 @@
     <ClCompile Include="서울에서김서방찾기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="소수찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
